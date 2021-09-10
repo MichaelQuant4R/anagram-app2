@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://holistic-anagram.herokuapp.com",
+  "proxy": "https://holistic-anagram.herokuapp.com", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
